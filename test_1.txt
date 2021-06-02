@@ -1,3 +1,7 @@
 This is a tutorial
 tutorial
+<<<<<<< HEAD
 Inside Master
+=======
+second commit
+>>>>>>> main
