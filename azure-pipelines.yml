@@ -1,4 +1,12 @@
 # Starter pipeline
+- task: ASAPS-SAST-Scanner@7
+  inputs:
+    SecurityGate_Type: '1'
+- task: ExtractFiles@1
+  inputs:
+    archiveFilePatterns: '**/*.zip'
+    cleanDestinationFolder: true
+    overwriteExistingFiles: false
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
