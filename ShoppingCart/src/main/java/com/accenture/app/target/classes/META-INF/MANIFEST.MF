@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ShoppingCart
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vindya.u.c
+Implementation-Vendor-Id: com.accenture.ecommerce
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ShoppingCart
+Created-By: Maven Integration for Eclipse
+
